@@ -41,5 +41,6 @@ Teaching style: start from the very beginning and explain everything like I'm a 
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
 | 2026-09-30 | 0.01 Dev Environment | 3/3 (+ venv & layer-order checks in dialogue) | verify.py passed (Python 3.12.7 via miniconda, git 2.39.5). Made `.venv`, installed numpy 2.5.3, dot product = 14. Bonus: outer vs cross product. Mac → MPS, not CUDA. Skipped for now: Node/Rust/Julia/PyTorch installs (install when a lesson needs them). |
+| 2026-10-07 | 0.02 Git & Collaboration | All concept checks correct | Already knew init/push/merge. Forked to JamesYeh23; `origin` = fork (push progress), `upstream` = rohitg00 (pull new lessons). Branch `my-progress` pushed. .gitignore: models too big/regenerable, .env = secrets. Leaked key stays in history → rotate it. |
 
 ## Review queue
